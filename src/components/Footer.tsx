@@ -154,7 +154,7 @@ export const Footer: React.FC<FooterProps> = ({ isDarkMode = false }) => {
                 }`}>
                   <div className="flex items-center gap-4">
                     <img 
-                      src="https://www.mediafire.com/convkey/4b5a/pdvtztcdyhxek71zg.jpg" 
+                      src="https://www.mediafire.com/convkey/gfbs/gfbsdvor275i0lnzg.jpg" 
                       alt="احمد طارق عبدالهادي علي الدين"
                       className="w-12 h-12 rounded-full object-cover border-2 border-purple-300 shadow-lg"
                     />
