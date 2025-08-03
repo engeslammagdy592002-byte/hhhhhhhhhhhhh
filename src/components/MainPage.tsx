@@ -297,13 +297,13 @@ export const MainPage: React.FC<MainPageProps> = ({ onNavigate, isDarkMode = fal
                 textShadow: '0 0 20px rgba(255, 193, 7, 0.8), 0 0 40px rgba(255, 193, 7, 0.6), 0 0 60px rgba(255, 255, 255, 0.4)',
                 fontFamily: 'Noto Sans Arabic, serif'
               }}>
-                دار المناسبات بالجامع الشرقي - دمليج
+                "وَفِي ذَٰلِكَ فَلْيَتَنَافَسِ الْمُتَنَافِسُونَ"
               </p>
               
               <div className="flex justify-center items-center gap-2 mb-4">
                 <div className="w-8 h-0.5 bg-gradient-to-r from-transparent to-yellow-300"></div>
                 <p className="text-yellow-300/90 text-lg font-semibold">
-                  صدق الله العظيم - سورة المزمل
+                  صدق الله العظيم - سورة المطففين
                 </p>
                 <div className="w-8 h-0.5 bg-gradient-to-l from-transparent to-yellow-300"></div>
               </div>
@@ -352,7 +352,7 @@ export const MainPage: React.FC<MainPageProps> = ({ onNavigate, isDarkMode = fal
                 <div className="bg-white/10 backdrop-blur-sm rounded-2xl p-4 border border-white/20 hover:bg-white/15 transition-all duration-300 hover:scale-105">
                   <div className="flex items-center gap-4">
                     <img 
-                      src="/src/assets/mesbah.jpg" 
+                      src="https://www.mediafire.com/convkey/8b5a/uakbupoy7z7dwjxzg.jpg" 
                       alt="الشيخ مصباح عبدالمنجي الدكاني"
                       className="w-16 h-16 rounded-full object-cover border-2 border-yellow-300 shadow-lg"
                     />
@@ -395,7 +395,7 @@ export const MainPage: React.FC<MainPageProps> = ({ onNavigate, isDarkMode = fal
                 <div className="bg-white/10 backdrop-blur-sm rounded-2xl p-4 border border-white/20 hover:bg-white/15 transition-all duration-300 hover:scale-105">
                   <div className="flex items-center gap-4">
                     <img 
-                      src="/src/assets/eslam.jpg" 
+                      src="https://www.mediafire.com/convkey/c5b8/xomyambcahs3tfdzg.jpg" 
                       alt="الاستاذ اسلام سعيد الشقيدي"
                       className="w-16 h-16 rounded-full object-cover border-2 border-green-300 shadow-lg"
                     />
@@ -441,7 +441,7 @@ export const MainPage: React.FC<MainPageProps> = ({ onNavigate, isDarkMode = fal
                 <div className="bg-white/10 backdrop-blur-sm rounded-2xl p-4 border border-white/20 hover:bg-white/15 transition-all duration-300 hover:scale-105">
                   <div className="flex items-center gap-4">
                     <img 
-                      src="/src/assets/me.jpg" 
+                      src="https://www.mediafire.com/convkey/4b5a/pdvtztcdyhxek71zg.jpg" 
                       alt="احمد طارق عبدالهادي علي الدين"
                       className="w-16 h-16 rounded-full object-cover border-2 border-purple-300 shadow-lg"
                     />

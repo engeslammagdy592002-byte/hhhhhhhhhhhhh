@@ -60,7 +60,7 @@ export const Footer: React.FC<FooterProps> = ({ isDarkMode = false }) => {
                 }`}>
                   <div className="flex items-center gap-4">
                     <img 
-                      src="/src/assets/mesbah.jpg" 
+                      src="https://www.mediafire.com/convkey/8b5a/uakbupoy7z7dwjxzg.jpg" 
                       alt="الشيخ مصباح عبدالمنجي الدكاني"
                       className="w-12 h-12 rounded-full object-cover border-2 border-yellow-300 shadow-lg"
                     />
@@ -107,7 +107,7 @@ export const Footer: React.FC<FooterProps> = ({ isDarkMode = false }) => {
                 }`}>
                   <div className="flex items-center gap-4">
                     <img 
-                      src="/src/assets/eslam.jpg" 
+                      src="https://www.mediafire.com/convkey/c5b8/xomyambcahs3tfdzg.jpg" 
                       alt="الاستاذ اسلام سعيد الشقيدي"
                       className="w-12 h-12 rounded-full object-cover border-2 border-green-300 shadow-lg"
                     />
@@ -154,7 +154,7 @@ export const Footer: React.FC<FooterProps> = ({ isDarkMode = false }) => {
                 }`}>
                   <div className="flex items-center gap-4">
                     <img 
-                      src="/src/assets/me.jpg" 
+                      src="https://www.mediafire.com/convkey/4b5a/pdvtztcdyhxek71zg.jpg" 
                       alt="احمد طارق عبدالهادي علي الدين"
                       className="w-12 h-12 rounded-full object-cover border-2 border-purple-300 shadow-lg"
                     />
